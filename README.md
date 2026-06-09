@@ -56,9 +56,9 @@ I'm Bandla Nikitha<!--[Abhishek Naidu](https://abhisheknaidu.tech)/> -->, a pass
     
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    <!-- ![R](https://img.shields.io/badge/R-0061A7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD60lEQVR4nO2aW4hWVRTHT8FUXiiCSGcUxDLTNEUEx0GnRMuiUTQyb6UPPij4JL7MgA9iLxUiThOEd8XwUWmKjDFBwxdLsRJ0vIFlKlg6hs5Mmo6/WMOSvjl8l7XPnMvXtH+Pe9bZa63/nL3O3nt9QeDxeDwej8fj8cQOMASoAxqAXcBB4DRwA2jjX9p07JTaiG29PlsV/FcA+gFzga3AeeLjnM45B3giKDeAWmAPcJvkER+fA1OyTvpR4F3gZ7LjR+Ad4JG0k38148TD/AS8kkbiTwI7gQeUHxLTDokxqeQnAhd6GeQt4BCwHpgv6xh4CaiU4qZFtFLHpqiN2B7WZ60Fc0Lcyc8GOiMm/TvQBFRL3ehlzZkMfAr8UcJnO/BWXMkvAO5FSPyYClcRSyA9Y6rQT+LxIv7/Bub11tEM4K5j4heBxWlUZn0r3gN+KRDLHWBa1MmrgOuOReiTLDYqWj+aChRnWYKDo0z6jUPy8pYsSiQ7t5jfL/DGfu06UZ1D8rLW6hzmjgMpcq3AFuC10PyzC9SsN10EOO4QzApHcZNAPpMv5PhYmcfmqDXA8Q6Om12ST1CAhyfK2hw/X+WxGWsJcJ3Dqz+ijARAj9TdMQEj8yyFtZYADxqd7XVNPgUBhO9yfH0R+luLJcDfjI4iVX3SYYb6kj1CLpcsAXYanTyXhACGvUm9YXO2We1HhMY7LAH+ZRSgX9oC5MwhIhSjVe36h8bbLZNfMQrwVIYCyJtQjFtqNyA0ftEy+bdGAV4uYwG6/9OyN4hSBD8wCrAkQwHklrkYZ9RuaWh8jWXycUYBWsq4CG5T+2bnjZAAfG8Q4D7wYuAI6TBNYgO68u0P4jwMHXI99yeUcI+Y1E9LaLzHockS6JdGh6vKSAA5DzwPrA6N73NKXgCGAtcMTrtcdoUkew6o1l6FLM+HXAaetcaX7/7fciUmNssDAwklfwAYBiwLHYBkV1tjiasgwNt68rMg/bv+KQrQrNfnsuHZlOc+8I0gDoBZDn2/X+U+P6oAoXs+8XupiLn0Cj7Ui9hcbgIzY0k+dFEiTQcrR4GF4WtxqwA59mMcb6Zbo3yeTQAD5aTl2Bq7CmwAput9vpMA6rfRWIwbSy3BWABqtPHhyp8Gm2eAUcBU2W4DHwNHDM+d7E3nyRnZAGl35gfKh5VBFgCTgO1afLJE/A/KRAQBeEyaktqlkd/7xIGs7RPARuAjg/3uoFwAntb+omxNPzN2m/ZrMZO7/ddljlAvUMQoxoPI/cA0KJW94Xk56ZXiLPB40BcFEPQtKUVD0IcFGG34zUIHMDzoiwII+tWJvXXn8Xg8Ho/H4/F4gv8F/wDSfJpsjsTGpQAAAABJRU5ErkJggg==) -->
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - Frontend Technologies:
 
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
