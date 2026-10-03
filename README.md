@@ -25,7 +25,7 @@
 
 <br />
 
-I'm Bandla Nikitha<!--[Abhishek Naidu](https://abhisheknaidu.tech)/> -->, a passionate Computer Science graduate and aspiring Java Full Stack Developer 🚀 from India. <!-- , currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/).--> 
+I'm Bandla Nikitha<!--[Abhishek Naidu](https://abhisheknaidu.tech)/> -->, a passionate Computer Science graduate and aspiring Java Full Stack Developer. <!-- , currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/).--> 
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
